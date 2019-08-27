@@ -1,0 +1,26 @@
+{
+  "name": "@aslijia/blockingqueue",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/index.js",
+  "types": "./types/index.d.ts",
+  "files": [
+    "lib",
+    "types"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aslijia/blockingqueue.git"
+  },
+  "keywords": [
+    "queue",
+    "blocking queue"
+  ],
+  "author": "aslijia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aslijia/blockingqueue/issues"
+  },
+  "homepage": "https://github.com/Aslijia/blockingqueue#readme"
+}
